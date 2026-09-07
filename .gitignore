@@ -1,0 +1,6 @@
+# .NET Build output and temporary files
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
